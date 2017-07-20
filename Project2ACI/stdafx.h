@@ -7,9 +7,13 @@
 
 #include "targetver.h"
 
+#include "targetver.h"
+#include <Windows.h>
 #include <stdio.h>
+#include <iostream>
+#include <fstream>
+#include <Lmcons.h>
 #include <tchar.h>
-
-
+#include <atlstr.h>
 
 // TODO: reference additional headers your program requires here
